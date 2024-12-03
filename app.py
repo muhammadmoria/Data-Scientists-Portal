@@ -933,9 +933,14 @@ st.markdown("""
 ---
 ## 📄 About Me  
 Hi! I'm **Muhammad Dawood**, a data scientist passionate about Machine Learning, NLP, and building intelligent solutions.  
+## Gmail: 
+ muhammaddawoodmoria@gmail.com 
+## whatsapp: 
+ +92-370-915-2202
+
 
 ### 🌐 Connect with Me:  
 - [GitHub](https://github.com/muhammadmoria)  
-- [LinkedIn](https://www.linkedin.com/in/muhammaddawood361510306/)  
+- [LinkedIn](https://www.linkedin.com/in/muhammadmoria/)  
 - [Portfolio](https://muhammadmoria.github.io/portfolio-new/)  
 """)

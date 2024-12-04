@@ -40,10 +40,11 @@ from tensorflow.keras.optimizers import Adam
 from tensorflow.keras import regularizers
 
 # Streamlit Configuration
-st.set_page_config(page_title="Data Scientist's Portal", page_icon="🧠", layout="wide")
+st.set_page_config(page_title="AutoMLX", page_icon="🧠", layout="wide")
 
 # Title
-st.title(":rainbow[ Data Scientist's Portal]")
+st.title("AutoMLX🧠")
+st.write(":rainbow[ Data Scientist's Portal]")
 st.write("### Your Ultimate Platform for Machine Learning, Deep Learning and Data Visualization")
 
 # Step 1: Problem Definition
